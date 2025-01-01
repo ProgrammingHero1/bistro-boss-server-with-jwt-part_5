@@ -3,7 +3,7 @@
 Client Repo Link - [bistro-boss-client-with-jwt-part_5](https://github.com/ProgrammingHero1/bistro-boss-client-with-jwt-part_5)
 
 ## Overview
-BistroBoss is a comprehensive restaurant management system designed to streamline operations, enhance customer experience, and improve overall efficiency. The system leverages modern web technologies to provide a robust, scalable, and high-performance solution for managing complex data structures and interactions within a restaurant environment.
+BistroBoss is a comprehensive restaurant management system designed to streamline operations, enhance customer experience, and improve overall efficiency. The system leverages modern web technologies to provide a robust, scalable, & high-performance solution for managing complex data structures and interactions within a restaurant environment.
 
 ## Added Middle Wares and APIS
 **JWT/POST**-creating Token
